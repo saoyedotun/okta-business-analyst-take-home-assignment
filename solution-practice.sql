@@ -1,4 +1,4 @@
--- Created Tables on sqlliteonline.com
+-- Created Tables on https://sqliteonline.com/
 
 CREATE TABLE employees (
     id int,
